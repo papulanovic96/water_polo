@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1516490653 source:c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"takmicenje.h"
+
+1516054444 source:c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\vaterpolo.c
+
+1516053594 c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\vaterpolo.h
+	<stdio.h>
+
+1516052495 c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\tipovi.h
+
+1516183914 c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\error.h
+
+1516490261 c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\strukture.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516496002 source:c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\takmicenje.c
+	"takmicenje.h"
+
+1516495823 c:\users\nebic\desktop\vaterpolo_klubovi\vaterpolo_klubovi\takmicenje.h
+	"strukture.h"
+
+1516490653 source:c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\vaterpolo_klubovi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"takmicenje.h"
+
+1516529173 c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\vaterpolo_klubovi\takmicenje.h
+	"strukture.h"
+
+1516529164 c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\vaterpolo_klubovi\strukture.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516529733 source:c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\vaterpolo_klubovi\takmicenje.c
+	"takmicenje.h"
+
+1516529796 source:c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	"takmicenje.h"
+
+1516529173 c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\takmicenje.h
+	"strukture.h"
+
+1516529164 c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\strukture.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516529733 source:c:\users\nebic\desktop\new folder (2)\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\takmicenje.c
+	"takmicenje.h"
+
+1516529796 source:c:\users\nebic\desktop\vaterpolo_klub\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	"takmicenje.h"
+
+1516529173 c:\users\nebic\desktop\vaterpolo_klub\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\takmicenje.h
+	"strukture.h"
+
+1517514335 c:\users\nebic\desktop\vaterpolo_klub\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\strukture.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1517385777 source:c:\users\nebic\desktop\vaterpolo_klub\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\takmicenje.c
+	"takmicenje.h"
+
+1516529798 source:c:\users\papulanovic\desktop\project a\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	"takmicenje.h"
+
+1516529174 c:\users\papulanovic\desktop\project a\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\takmicenje.h
+	"strukture.h"
+
+1517514336 c:\users\papulanovic\desktop\project a\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\strukture.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1517516148 source:c:\users\papulanovic\desktop\project a\vaterpolo_klubovi\bp1_branislav_papulanovic_ra227-2015\takmicenje.c
+	"takmicenje.h"
+
